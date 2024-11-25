@@ -40,9 +40,9 @@
 	}
 	.filter-button-group button{
 		margin: 5px; /* Adds spacing between buttons */
-    	padding: 10px 15px; /* Adjust padding for better touch support */
-    	border: none; /* Optional: style adjustments */
-    	border-radius: 5px; /* Optional: rounded corners */
+    		padding: 10px 15px; /* Adjust padding for better touch support */
+    		border: none; /* Optional: style adjustments */
+    		border-radius: 5px; /* Optional: rounded corners */
 	}
 	.filter-button-group{
 		text-align: center !important;
@@ -140,10 +140,12 @@
 		margin-bottom: 30px;
 	}
 	.filter-button-group button{
-		padding: 12px 27px;
+		margin: 10px 0; 
+        	width: 80%;;
 	}
 	.filter-button-group{
-		text-align: center !important;
+		text-align: center; 
+        	flex-direction: column;
 	}
 	.post-box{
 		margin-bottom: 30px;

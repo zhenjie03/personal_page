@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to my personal website! This project showcases my portfolio, skills, and experiences. You can visit the live website [here](https://jiejiechai.github.io/personal_page/).
+Welcome to my personal website! This project showcases my portfolio, skills, and experiences. You can visit the live website [here](https://zhenjie03.github.io/personal_page/).
 
 ## Table of Contents
 
